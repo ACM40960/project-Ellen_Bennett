@@ -100,7 +100,7 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 
 ### R Script
 
-#### Estimating_Pi.R
+#### Section 1: Estimating_Pi.R
 
 The R script *Estimating_Pi.R* in the folder *R Code* contains the code to run the following five different monte carlo simulation methods:
 
@@ -123,7 +123,7 @@ After running each section, you will generate the convergence plots of the mean 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
 
-#### Convergence_Analysis.R
+#### Section 2: Convergence_Analysis.R
 
-#### Computation_Time_Analysis.R
+#### Section 3: Computation_Time_Analysis.R
 
