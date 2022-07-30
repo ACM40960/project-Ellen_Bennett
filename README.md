@@ -25,8 +25,6 @@
 
 ## Installation Instructions
 
-<br />
-
 ### Mathematica
 
 <br />
