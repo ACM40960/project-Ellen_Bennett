@@ -45,6 +45,7 @@ The following packages are required to run the R scripts.
 Enter and run the following lines of code in the R console or through an R Script via R Studio.
 
 `install.packages("Rcpp")`
+
 `install.packages("inline")`
 
 Again, The ZIP file containing all project items (including the R script) can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
