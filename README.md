@@ -38,7 +38,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
 
 ***"R is a programming language for statistical computing and graphics"***
 
-It be installed freely via the following link: *https://cran.ma.imperial.ac.uk/*
+It be installed freely via the following link: *https://cran.ma.imperial.ac.uk/*.
 R Studio is a great IDE that was used to write the code in and can be downloaded here: *https://www.rstudio.com/products/rstudio/download/*
 
 Note that only base R functionality was used and no further packages need to be installed!
@@ -51,6 +51,11 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 
 ## Running Code
+
+There are essentially three sections to this paper:
+1. Run each simulation method.
+2. Compare convergences.
+3. Compare computational times of best methods.
 
 **Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
