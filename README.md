@@ -1,4 +1,7 @@
 ## Table of Contents
+
+<br />
+
 - [**Introduction**](https://github.com/ACM40960/project-Ellen_Bennett#introduction)
 - [**Installation Instructions**](https://github.com/ACM40960/project-Ellen_Bennett#installation-instructions)
   - [Mathematica](https://github.com/ACM40960/project-Ellen_Bennett#mathematica)
