@@ -16,6 +16,8 @@
   
    <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
 
+
+
 ## Installation Instructions
 
 ### Mathematica
