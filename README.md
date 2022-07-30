@@ -25,6 +25,8 @@
 
 ## Installation Instructions
 
+<br />
+
 ### Mathematica
 
 The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
@@ -39,7 +41,7 @@ Once the notebook has been downloaded it can be opened on your computer by runni
 
 It is advised not to run the entire notebook due to its run time, and instead to consult this [**guide**](https://github.com/ACM40960/project-Ellen_Bennett#mathematica-notebook).
   
-  
+<br />
   
 ### R
 
@@ -78,6 +80,7 @@ There are essentially three sections to the paper that should be reproduced:
 
 Mathematica notebook *Estimating_Pi.nb* and *Estimating_Pi.R* are used for reproducing the first section and generating estimates for each method. R script *Convergence_Analysis.R* runs the code for the second section to determine the convergence of each method with the aim of finding an optimal method(s). Finally for section three, an R script called *Computation_Time_Analysis.R* is used to compare the computation times of the best method(s) found during the previous analysis.
 
+<br />
 
 ### Mathematica Notebook
 
@@ -109,7 +112,11 @@ The titles of the subsections containing these functions are:
 
 Sections 5 to 7 contain code that was used to create error plots, relative difference plots, and convergence plots for the project. By default the code is set to produce plots of the **Gamma Function Integral Method**, as its Monte Carlo Simulations take the shortest amount of time to run (5 minutes).
 
+<br />
+
 ### R Script
+
+<br />
 
 #### Section 1: Estimating Pi
 
@@ -134,10 +141,14 @@ After running each section, you will generate the convergence plots of the mean 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
 
+<br />
+
 #### Section 2: Convergence
 
 The R script *Convergence_Analysis.R* in the folder *R Code* contains the code to compare the convergence of the four methods.
 This script can be ran in one go in under 10 seconds. Highlight all the text and then run the script. You will see the convergence plots described in the paper. 
+
+<br />
 
 #### Section 3: Computation Times
 
