@@ -48,7 +48,7 @@ Enter and run the following lines of code in the R console or through an R Scrip
 
 `install.packages("inline")`
 
-`install.packages('rbenchmark')`
+`install.packages("rbenchmark")`
 
 Again, The ZIP file containing all project items (including the R script) can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
 
