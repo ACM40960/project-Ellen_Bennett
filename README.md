@@ -45,7 +45,7 @@ It is advised not to run the entire notebook due to its run time, and instead to
   
 <br />
   
-### R
+### R / R Studio
 
 <br />
 
