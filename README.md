@@ -102,7 +102,7 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 
 ### R Script
 
-#### Section 1: Estimating_Pi.R
+#### Section 1: Estimating Pi
 
 The R script *Estimating_Pi.R* in the folder *R Code* contains the code to run the following five different monte carlo simulation methods:
 
@@ -125,7 +125,14 @@ After running each section, you will generate the convergence plots of the mean 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/How_To_Run_R_Script_2.png" width = "450" height = "300"/>
 </p>
 
-#### Section 2: Convergence_Analysis.R
+#### Section 2: Convergence
 
-#### Section 3: Computation_Time_Analysis.R
+The R script *Convergence_Analysis.R* in the folder *R Code* contains the code to compare the convergence of the four methods.
+This script can be ran in one go in under 10 seconds. Highlight all the text and then run the script. You will see the convergence plots described in the paper. 
+
+#### Section 3: Computation Times
+
+Remeber to install packages from above.
+
+The R script *Computation_Time_Analysis.R* in the folder *R Code* contains the code to compare the two final candiate estimators in terms of computation time. It finally runs the best method for one billion simulations. This is done using R's interface to C++ to make this possibel. But from a user perspective run the R script as normal.
 
