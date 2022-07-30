@@ -61,9 +61,9 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 There are essentially three sections to the paper that should be reproduced:
 
-1. Running each simulation method.
-2. Comparing convergences.
-3. Compare computational times of best methods.
+1. Running each simulation method to obtain estimates of Pi.
+2. Comparing convergences of estimators.
+3. Comparing computational times of most effective estimators.
 
 **Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
