@@ -28,7 +28,6 @@ The ZIP file containing the notebook can be downloaded by clicking on the green 
 
 Once the notebook has been downloaded it can be opened on your computer by running the *Wolfram Mathematica* program, and clicking the ***Open...*** icon. 
 
-
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/mathematica_menu.png" width = "500"/>
 
 The notebook is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
@@ -56,22 +55,30 @@ Once the script has been downloaded, it can be opened on your computer by right 
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
 
+
 ## Running Code
 
 **Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
 
-There is a single Mathematica notebook called *Estimating_Pi.nb* to run four of the methods. Five are then ran using the R script *Estimating_Pi.R*. An additional R script called *Convergence_Analysis.R* then runs the code to determine the order of convergence of each method with the aim of finding the optimal few. A final R script called *Computation_Time_Analysis.R* is used to compare the computation time of the best method(s) found by analysing accuracy and convergence in previous sections.
+There is a single Mathematica notebook called *Estimating_Pi.nb* to run four of the methods. Five are ran using the R script *Estimating_Pi.R*. An additional R script called *Convergence_Analysis.R* runs code to determine the convergence of each method with the aim of finding an optimal few. A final R script called *Computation_Time_Analysis.R* is finally used to compare the computation time of the best method(s) found during the previous analysis.
 
 
 ### Mathematica Notebook
 
-The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* contains code to run the following four simulations methods:
+The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* is divided into seven sections, each of which is split into various subsections. Sections can be expanded by clicking on the orange arrow icon at the right hand side of the section title. 
+
+  <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/notebook_layout.png" width = "500" />
+
+The first four sections contain code pertaining to simulations for four of the methods, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
+
+The four methods are:
+
 1. Archimedes' Method
 2. Quadrant Method
 3. Gamma Function Integral
 4. Gregory-Leibniz Series.
 
-This is a guide to running this notebook. Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
+Certain subsections take up to 30 minutes to run, so it is **NOT** advised to run the entire notebook. Any section with a long running time includes a warning sign at the beginning of the code to inform the user. 
 
 Sections 1 to 4 each feature a function that demonstrates the simulation method to the user. These have relatively very short running times and are recommended to use. 
 
