@@ -29,6 +29,8 @@
 
 ### Mathematica
 
+<br />
+
 The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
 The ZIP file containing the notebook can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
@@ -44,6 +46,8 @@ It is advised not to run the entire notebook due to its run time, and instead to
 <br />
   
 ### R
+
+<br />
 
 ***"R is a programming language for statistical computing and graphics"***
 
