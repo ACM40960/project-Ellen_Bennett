@@ -12,7 +12,7 @@
    
    One such method is demonstrated visually below. By dropping many random points on the square and counting the proportion landing inside the quarter circle, one can esimate Pi by multiplying this proportion by four. This is because the true proportion of the total area this region covers is Pi/4.
    
-   This README file will detail how to run code to reproduce the results of each of the simulation techniques. First install annd download relevant softwares and scripts via "Installation Instructions" before reading the "Running Code" section.
+   This README file will detail how to run code to reproduce the results of each of the simulation techniques detailed in the paper. First install annd download relevant softwares and scripts via "Installation Instructions" before reading the "Running Code" section.
   
    <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/gif_of_quadrant_method.gif" width="300" height="275"/>
 
