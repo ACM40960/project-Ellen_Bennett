@@ -28,13 +28,15 @@
 
 ## Installation Instructions
 
+### Project Artifacts
+
+The ZIP file containing all source code files can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
+
 ### Mathematica
 
 <br />
 
-The notebook was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
-
-The ZIP file containing the notebook can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
+The notebook *Estimating_Pi.nb* was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/download_code.png" width = "500"/>
 
@@ -55,8 +57,8 @@ It is advised not to run the entire notebook due to its run time, and instead to
 It be installed freely via the following link: *https://cran.ma.imperial.ac.uk/*.
 R Studio is a great IDE that was used to write the code in and can be downloaded here: *https://www.rstudio.com/products/rstudio/download/*. 
 
-The following packages are required to run the R scripts.
-Enter and run the following lines of code in the R console or through an R Script via R Studio.
+The following packages are required to run the R scripts downloaded previoulsy in the ZIP file.
+Enter and run the following lines of code in R console or through a script via R Studio.
 
 `install.packages("Rcpp")`
 
@@ -64,9 +66,7 @@ Enter and run the following lines of code in the R console or through an R Scrip
 
 `install.packages("rbenchmark")`
 
-Again, The ZIP file containing all project items (including the R script) can be downloaded by clicking on the green ***Code*** button, and selecting ***Download ZIP***.
-
-Once the script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
+Once a script has been downloaded, it can be opened on your computer by right clicking the file, and clicking ***Open with > R Studio***. 
 
 <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/Open_R_Script.png" width = "500" />
 
