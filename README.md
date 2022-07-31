@@ -119,11 +119,9 @@ Sections 5 to 7 contain code that was used to create error plots, relative diffe
 
 ### R Script
 
-<br />
-
 #### Section 1: Estimating Pi
 
-The R script *Estimating_Pi.R* in the folder *R Code* contains the code to run the following five different monte carlo simulation methods:
+The R script *Estimating_Pi.R* in the folder *R Code* contains the code to run the following five monte carlo simulation methods:
 
 1. Buffon's Experiment
 2. Quarter Circle Integral
