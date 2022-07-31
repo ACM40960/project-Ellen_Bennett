@@ -155,5 +155,7 @@ This script can be ran in one go in under 10 seconds. Highlight all the text and
 
 Remeber to install packages from above.
 
-The R script *Computation_Time_Analysis.R* in the folder *R Code* contains the code to compare the two final candiate estimators in terms of computation time. It finally runs the best method for one billion simulations. This is done using R's interface to C++ to make this possibel. But from a user perspective run the R script as normal.
+The R script *Computation_Time_Analysis.R* in the folder *R Code* contains the code to compare the two final candiate estimators in terms of computation time. It finally runs the optimal method for one billion simulations. This is done using R's interface to C++, But from a user perspective run the R script as normal.
+
+Again, clear comments are used in the file to tell a user which lines to run at a time.
 
