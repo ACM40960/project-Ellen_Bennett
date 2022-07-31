@@ -32,9 +32,9 @@
 
 The ZIP file containing all source code files can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
 
-### Mathematica
-
 <br />
+
+### Mathematica
 
 The notebook *Estimating_Pi.nb* was created using **Wolfram Mathematica 13.0**, which can be installed by following these [**instructions**](https://reference.wolfram.com/language/tutorial/InstallingMathematica.html).
 
@@ -49,8 +49,6 @@ It is advised not to run the entire notebook due to its run time, and instead to
 <br />
   
 ### R / R Studio
-
-<br />
 
 ***"R is a programming language for statistical computing and graphics"***
 
