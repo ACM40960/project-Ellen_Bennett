@@ -30,7 +30,7 @@
 
 ### Project Artifacts
 
-The ZIP file containing all source code files can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***.
+The ZIP file containing all source code files can be downloaded by clicking on the green ***Code*** button at the top of the project, and then selecting ***Download ZIP***. Folder *Mathemtica Code* has a Mathematica notebook for running a number of simulations. Similarly, *R Code* contains R scripts to run other elements of the project. The *images* folder should be ignored. It contains only the graphics displayed in this README.
 
 <br />
 
