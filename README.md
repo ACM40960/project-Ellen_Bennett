@@ -79,7 +79,7 @@ There are essentially three sections to the paper that should be reproduced:
 2. Comparing convergences of estimators.
 3. Comparing computational times of most effective estimators.
 
-**Note:** There is no external data sources required for this project. All data is generated using random number generators in Mathematica and R.
+**Note:** No external data sources are required for this project. All data was self generated using random number generators.
 
 Mathematica notebook *Estimating_Pi.nb* and  R script *Estimating_Pi.R* are used for reproducing the first section and generating estimates for each method. *Convergence_Analysis.R* runs the code for the second section to determine the convergence of each method with the aim of finding an optimal method(s). Finally for section three, *Computation_Time_Analysis.R* is used to compare the computation times of the best method(s) found during the previous analysis.
 
