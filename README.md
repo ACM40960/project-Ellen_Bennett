@@ -91,7 +91,7 @@ The Mathematica notebook *Estimating_Pi.nb* in folder *Mathematica Code* is divi
 
   <img src="https://github.com/ACM40960/project-Ellen_Bennett/blob/main/images/notebook_layout.png" width = "500" />
 
-The first four sections contain code pertaining to simulations for four of the methods, and the last three contain code that was used to obtain plots included in the *LaTeX* document. 
+The first four sections contain code pertaining to simulations for four of the methods, and the last three contain code that was used to obtain plots included in the paper. 
 
 The four methods are:
 
